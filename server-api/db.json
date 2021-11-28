@@ -1,0 +1,26 @@
+{
+  "contact": [
+    {
+      "id": "f31eefd7-09e5-4cb9-afeb-60d79311aab9",
+      "name": "Chintan Golakiya",
+      "email": "sddfds@ds"
+    },
+    {
+      "id": "7b499629-27fa-4c97-a903-e7fe5726f3c6",
+      "name": "update3",
+      "email": "chintan@djfks.com"
+    },
+    {
+      "id": "06b04b8f-21f0-4369-9ef6-9cc709c55f15",
+      "name": "dfdsf",
+      "email": "dsd@ww",
+      "redirect": false
+    },
+    {
+      "id": "825cbd95-4d81-4a38-aa5f-9af3b5d739a6",
+      "name": "new ",
+      "email": "new@ddk.com",
+      "redirect": false
+    }
+  ]
+}
